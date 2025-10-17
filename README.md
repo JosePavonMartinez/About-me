@@ -6,4 +6,5 @@ I'm Jose Pavón, a Computer Engineering and Business Administration student pass
   such as Bandit, Natas...
 - I enjoy taking on new challenges, solving complex problems, and constantly improving through hands-on experience.
 
->[!INFO] Most of my repositories are private, but I can share them upon request.
+>[!tip]
+> Most of my repositories are private, but I can share them upon request.
