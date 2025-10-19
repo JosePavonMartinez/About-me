@@ -7,4 +7,4 @@ I'm Jose Pavón, a Computer Engineering and Business Administration student pass
 - I enjoy taking on new challenges, solving complex problems, and constantly improving through hands-on experience.
 
 >[!tip]
-> Most of my repositories are private, but I can share them upon request.
+> Most of my repositories are private due to confidentiality, but I can share them upon request.
